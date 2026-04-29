@@ -1,0 +1,15 @@
+{
+  "name": "despliegue-automatico",
+  "version": "1.0.0",
+  "description": "Aplicación sencilla para demostrar despliegue automático en Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Tu nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
