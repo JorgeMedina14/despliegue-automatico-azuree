@@ -3,9 +3,9 @@
 ## Información del estudiante
 
 - Nombre: Jorge Medina
-- Curso: Colocar nombre del curso
-- Carné: Colocar número de carné
-- Universidad: Colocar nombre de la universidad
+- Curso: Ingenieria de Software
+- Carné: 0907-22-8688
+- Universidad: UMG
 
 ## Descripción del proyecto
 
