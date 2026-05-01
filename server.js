@@ -42,7 +42,7 @@ app.get("/", (req, res) => {
       <div class="card">
         <h1>Bienvenido a mi aplicación web</h1>
         <p>Esta aplicación fue creada para demostrar un despliegue automático en Azure App Service.</p>
-        <p><strong>Versión 1:</strong> Despliegue inicial.</p>
+        <p><strong>Versión 1:</strong> Cambio realizado para comprobar el despliegue automático.</p>
       </div>
     </body>
     </html>
